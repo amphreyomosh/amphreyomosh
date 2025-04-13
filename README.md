@@ -37,6 +37,49 @@
 
 ---
 
+## 🎨 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://firstattempt.fwh.is" target="_blank">
+        <img src="https://via.placeholder.com/300x180.png?text=firstattempt.fwh.is" alt="firstattempt" width="300" />
+        <br />
+        <strong>Personal Portfolio Website</strong>
+      </a>
+      <p>WordPress-based portfolio hosted on InfinityFree.</p>
+    </td>
+    <td align="center">
+      <a href="#" target="_blank">
+        <img src="https://via.placeholder.com/300x180.png?text=Ecommerce+Client+Site" alt="Client Site" width="300" />
+        <br />
+        <strong>Client eCommerce Project</strong>
+      </a>
+      <p>Custom online store built with WordPress + WooCommerce.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/@Harmodev" target="_blank">
+        <img src="https://via.placeholder.com/300x180.png?text=Harmodev+Channel" alt="YouTube Channel" width="300" />
+        <br />
+        <strong>YouTube Channel</strong>
+      </a>
+      <p>Tutorials on React, Next.js, WordPress, and freelancing.</p>
+    </td>
+    <td align="center">
+      <a href="#" target="_blank">
+        <img src="https://via.placeholder.com/300x180.png?text=Coming+Soon" alt="Coming Soon" width="300" />
+        <br />
+        <strong>More Projects Coming Soon</strong>
+      </a>
+      <p>Stay tuned! More creative projects in the works.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌱 Currently Exploring
 
 - ⚡ TypeScript & API routes in Next.js  
@@ -49,4 +92,19 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/b
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humphrey-odhiambo/)
+[![YouTube](https://img.shields.io/badge/YouTube-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Harmodev)
+
+---
+
+## 💬 Quote I Live By
+
+> "Keep building. Keep learning. Stay curious."  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amphreyomosh&show_icons=true&theme=radical" alt="Humphrey's GitHub Stats" />
+</p>
