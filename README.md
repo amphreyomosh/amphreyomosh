@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="http://firstattempt.fwh.is" target="_blank">
+      <a href="https://harmo.vercel.app" target="_blank">
         <img src="https://via.placeholder.com/300x180.png?text=firstattempt.fwh.is" alt="firstattempt" width="300" />
         <br />
         <strong>Personal Portfolio Website</strong>
@@ -103,8 +103,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amphreyomosh&show_icons=true&theme=radical" alt="Humphrey's GitHub Stats" />
-</p>
