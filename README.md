@@ -38,47 +38,6 @@
 
 ---
 
-## 🎨 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://harmo.vercel.app" target="_blank">
-        <img src="https://via.placeholder.com/300x180.png?text=firstattempt.fwh.is" alt="firstattempt" width="300" />
-        <br />
-        <strong>Personal Portfolio Website</strong>
-      </a>
-      <p>WordPress-based portfolio hosted on InfinityFree.</p>
-    </td>
-    <td align="center">
-      <a href="#" target="_blank">
-        <img src="https://via.placeholder.com/300x180.png?text=Ecommerce+Client+Site" alt="Client Site" width="300" />
-        <br />
-        <strong>Client eCommerce Project</strong>
-      </a>
-      <p>Custom online store built with WordPress + WooCommerce.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/@Harmodev" target="_blank">
-        <img src="https://via.placeholder.com/300x180.png?text=Harmodev+Channel" alt="YouTube Channel" width="300" />
-        <br />
-        <strong>YouTube Channel</strong>
-      </a>
-      <p>Tutorials on React, Next.js, WordPress, and freelancing.</p>
-    </td>
-    <td align="center">
-      <a href="#" target="_blank">
-        <img src="https://via.placeholder.com/300x180.png?text=Coming+Soon" alt="Coming Soon" width="300" />
-        <br />
-        <strong>More Projects Coming Soon</strong>
-      </a>
-      <p>Stay tuned! More creative projects in the works.</p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🌱 Currently Exploring
