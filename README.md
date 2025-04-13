@@ -20,7 +20,8 @@
 ### ⚒️ CMS & Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat-square&logo=squarespace&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Sanity](https://img.shields.io/badge/Sanity-EF3A60?style=flat-square&logo=sanity&logoColor=white)
+
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -31,9 +32,9 @@
 
 ## 🔥 Current Projects
 
-- 🛒 **Client eCommerce Website** – WordPress-based online store with full functionality  
-- 🌐 **[firstattempt.fwh.is](http://firstattempt.fwh.is)** – My personal website hosted with InfinityFree  
-- 🎥 **[YouTube Channel](https://www.youtube.com/@Harmodev)** – Creating tutorials & content for aspiring web developers
+- **Meal website** - Created with React 
+- **(https://harmo.vercel.app)** – My portfolio  
+- **[YouTube Channel](https://www.youtube.com/@Harmodev)** – Creating tutorials & content for aspiring web developers
 
 ---
 
