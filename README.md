@@ -32,7 +32,7 @@
 
 ## 🔥 Current Projects
 
-- **Meal website** - Created with React 
+- **Meal website** **https://mealsite.netlify.app/** - Created with React 
 - **(https://harmo.vercel.app)** – My portfolio  
 - **[YouTube Channel](https://www.youtube.com/@Harmodev)** – Creating tutorials & content for aspiring web developers
 
